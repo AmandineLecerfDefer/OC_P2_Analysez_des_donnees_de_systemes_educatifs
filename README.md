@@ -1,4 +1,4 @@
-# Projet : Classification automatique de biens de consommation
+# Projet : Analysez des données de systèmes éducatifs
 
 **Autor :** Amandine LECERF DEFER
 
