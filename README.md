@@ -6,6 +6,9 @@
 
 **Durée totale :** 60 heures
 
+Si vous avez des difficulté à voir le contenu des notebook, vous pouvez le retrouvez ici :
+[Analyse de données éducatives](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P2_Analysez_des_donnees_de_systemes_educatifs/blob/main/P2_01_notebook.ipynb)
+
 ## Background du projet :
 
 Vous êtes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
