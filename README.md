@@ -6,7 +6,7 @@
 
 **Durée totale :** 60 heures
 
-Si vous avez des difficulté à voir le contenu des notebook, vous pouvez le retrouvez ici :
+Si vous avez des difficultés à voir le contenu des notebooks, vous pouvez les retrouvez ici :
 [Analyse de données éducatives](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P2_Analysez_des_donnees_de_systemes_educatifs/blob/main/P2_01_notebook.ipynb)
 
 ## Background du projet :
